@@ -1,5 +1,5 @@
 # Tenzies
-A number rolling tenzies game built with Next.JS. Click here for <a href="https://tenzies.on.fleek.co/" target="_blank">live website</a>.
+A number rolling tenzies game built with Next.JS. Click here for <a href="https://love-tenzies.vercel.app/" target="_blank">live website</a>.
 
 ### What I learnt:
 - learn about React hooks such as useState and useEffect
